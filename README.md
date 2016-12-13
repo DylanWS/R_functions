@@ -1,2 +1,2 @@
 # R_functions
-Individuals function for use in R.
+Individuals functions for use in R.
