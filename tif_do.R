@@ -1,3 +1,5 @@
+# Created August 2016 by Schneider.DW@gmail.com
+
 tif.do <- function (first_function, if_condition, second_function, f1_arguments, f2_arguments, print="on fail")
 {
 	functions_complete = ifelse(missing(f1_arguments),T,F)
